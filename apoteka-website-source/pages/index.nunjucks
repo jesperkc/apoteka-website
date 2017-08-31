@@ -1,0 +1,137 @@
+<html>
+<head>
+  <title>Apoteka</title>
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
+  <link href="stylesheets/style.css" rel="stylesheet"/>
+  
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="#"><img src="images/logo-apopro-web-200px.png"/></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Apoteka</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Apopro</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Our vision</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="hero">
+<div class="container">
+  <div class="row">
+    <div class="col-6">
+      <h1>THE FIRST FULLY DIGITAL PHARMACY IN DENMARK</h1>
+      <a href="http://apropos.dk" target="_blank" class="btn btn-lg">Visit Apropos</a>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="container container-padding">
+  <div class="row">
+    <div class="col-12">
+      <h1>OUR VISION</h1>
+      <h6>We think that everyone should have access to affordable high quality healthcare.</h6>
+      
+      <p>Our vision is to enable cost-effective precision medicine by digitalizing and connecting existing data flows related to medication analysis.</p>
+    </div>
+  </div>
+</div>
+<hr/>
+<div class="container container-padding">
+  <div class="row">
+    <div class="col-12">
+      <h1>WHY APOTEKA?</h1>
+      <h6>Data-driven rational medication therapy</h6>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-7">
+      <p>Healthcare systems struggle to keep up with the financial challenge of a growing elderly population living longer, with at least one chronic disorder, combined with increasingly expensive new medication therapies. 
+There is an urgent need to do more with less. To improve outcomes for more people at a lower cost.
+We support our partners in achieving this by enabling data-driven rational medication therapies.</p>
+      <p><a href="">Learn more about Apoteka</a></p>
+    </div>
+    <div class="col-4 ml-auto">
+      <img src="images/graph.png"/>
+    </div>
+  </div>
+</div>
+<div class="gradient">
+<div class="container container-padding">
+  <div class="row">
+    <div class="col-12">
+      <h1>OUR VALUE PROPOSITION</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-7 col-6">
+      <p>Apoteka has built a normalized international medication platform enabling granular data analysis and digitalized medicine workflows. Our platform supports personalized medication services, such as dynamic medicine lists, targeted Medication Therapy Management (MTM) and adherence support.</p>
+    </div>
+    <div class="col-md-4 col-6 ml-auto">
+      <ul class="list-unstyled list-bold">
+        <li>Personalized medication services</li>
+        <li>Dynamic medicine lists</li>
+        <li>Targeted Medication Therapy Management</li>
+        <li>Adherence support</li>
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="container container-padding">
+  <div class="row">
+    <div class="col-12">
+      <h1>MADE WITH CARE IN COPENHAGEN</h1>
+      <p>Apoteka is a Copenhagen, Denmark based independent medication management services and platform company focused on clinical telepharmacy services.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4 people">
+      <img src="images/martin.png"/>
+      <h4>Martin Glesner <a href="http://linkedin.com" target="_blank"></a></h4>
+      <h5>Founder & CEO</h5>
+      <p>Successful international CEO and serial entrepreneur with more than 20 years management experience and 5 years’ experience in the European health care and pharmacy industry. Co-founded essDOCS, which today is the world’s largest electronic bill of lading network. Before founding Apoteka, he restructured, raised new capital and managed a successful turnaround of Paranova Group, the second largest parallel distributor of medicine in the Nordics. Prior career include A.P. Møller Maersk, McKinsey & Company. Martin has a HD in Finance and an MBA in Finance & Entrepreneurship from The Wharton School at University of Pennsylvania.</p>
+    </div>
+
+    <div class="col-md-4 people">
+      <img src="images/stefan.png"/>
+      <h4>Stefan Haupt <a href="http://linkedin.com" target="_blank"></a></h4>
+      <h5>Director of R&D</h5>
+      <p>Responsible for the development of the back-end database and web services. Stefan is a an experienced developer and solutions architect with a background as Head of IT for Sundhedsdoktor.dk, a successful B2B healthcare platform and a career including Aller, Søndagsavisen and Retsmedicinsk institut. Stefan is educated as software engineer (Cand. Scient. Datalogi) from University of Copenhagen.</p>
+    </div>
+
+    <div class="col-md-4 people">
+      <img src="images/anissa.png"/>
+      <h4>Anissa Aharaz <a href="http://linkedin.com" target="_blank"></a></h4>
+      <h5>Senior Pharmacist</h5>
+      <p>Anissa is responsible for product development, testing and implementation of pharmaceutical services. Anissa has a background as quality manager and lead pharmacist in Danish Pharmacies. She is specialized in medication therapy reviews (MTM) and LEAN design and implementation. Anissa is educated Cand. Pharm. at the Danish University of Pharamceutical Sciences.</p>
+    </div>
+  </div>
+</div>
+
+
+
+
+</body>
+</html>

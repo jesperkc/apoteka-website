@@ -1,0 +1,10 @@
+$green: #26bdc3;
+
+$theme-colors: (
+  primary: $green
+);
+
+$link-color:            theme-color("primary");
+
+$font-family-sans-serif: "PT Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-family-base:       $font-family-sans-serif;

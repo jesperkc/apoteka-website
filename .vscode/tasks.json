@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "command": "gulp",
+	"args": [],
+    "tasks": [
+        {
+            "taskName": "default",
+            "suppressTaskName": true,
+            "args": [
+                "default"
+            ],
+            "isBuildCommand": true,
+            "showOutput": "always",
+            "isBackground": true
+        },
+        {
+            "taskName": "nunjucks",
+            "suppressTaskName": true,
+            "args": [
+                "default"
+            ],
+            "isBuildCommand": true,
+            "showOutput": "always",
+            "isBackground": true
+        }
+    ]
+}
